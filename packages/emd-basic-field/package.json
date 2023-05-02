@@ -16,7 +16,7 @@
     "@stone-payments/emd-hocs": "^2.1.1",
     "@stone-payments/lit-html": "^1.1.1",
     "imask": "^5.2.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "peerDependencies": {
     "chai": "^4.1.2",
